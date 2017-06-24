@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"default" : "MasashiUmezawa 6/19/2017 11:12",
+		"initialize" : "MasashiUmezawa 6/19/2017 11:12" },
+	"instance" : {
+		"busMap" : "MasashiUmezawa 6/19/2017 11:14",
+		"busMap:" : "MasashiUmezawa 6/19/2017 11:13",
+		"named:" : "MasashiUmezawa 6/23/2017 11:50",
+		"named:ifAbsentPut:" : "MasashiUmezawa 6/23/2017 11:51",
+		"named:put:" : "MasashiUmezawa 6/19/2017 11:15",
+		"removeNamed:" : "MasashiUmezawa 6/19/2017 11:15" } }

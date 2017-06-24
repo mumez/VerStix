@@ -1,0 +1,18 @@
+{
+	"category" : "VerStix-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stick",
+		"defaultHeaders",
+		"handlers",
+		"replyHandlers",
+		"onMessageErrorBlock" ],
+	"name" : "VsEventBus",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

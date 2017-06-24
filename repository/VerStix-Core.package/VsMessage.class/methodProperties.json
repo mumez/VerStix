@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"fromJson:" : "MasashiUmezawa 6/11/2016 14:40" },
+	"instance" : {
+		"address" : "MasashiUmezawa 6/11/2016 09:42",
+		"address:" : "MasashiUmezawa 6/11/2016 09:42",
+		"body" : "MasashiUmezawa 6/11/2016 09:42",
+		"body:" : "MasashiUmezawa 6/11/2016 09:42",
+		"ensureAsError" : "MasashiUmezawa 6/11/2016 12:39",
+		"failureCode" : "MasashiUmezawa 6/11/2016 09:50",
+		"failureCode:" : "MasashiUmezawa 6/11/2016 09:50",
+		"failureType" : "MasashiUmezawa 6/11/2016 09:50",
+		"failureType:" : "MasashiUmezawa 6/11/2016 09:50",
+		"headers" : "MasashiUmezawa 6/11/2016 09:42",
+		"headers:" : "MasashiUmezawa 6/11/2016 09:42",
+		"isError" : "MasashiUmezawa 6/11/2016 12:12",
+		"message" : "MasashiUmezawa 6/11/2016 09:50",
+		"message:" : "MasashiUmezawa 6/11/2016 09:50",
+		"reply:headers:callback:" : "MasashiUmezawa 6/11/2016 12:40",
+		"replyAddress" : "MasashiUmezawa 6/11/2016 09:42",
+		"replyAddress:" : "MasashiUmezawa 6/11/2016 09:42",
+		"replyCallback:" : "MasashiUmezawa 6/11/2016 12:33",
+		"type" : "MasashiUmezawa 6/11/2016 09:46",
+		"type:" : "MasashiUmezawa 6/11/2016 09:42" } }

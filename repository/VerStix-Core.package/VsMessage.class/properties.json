@@ -1,0 +1,22 @@
+{
+	"category" : "VerStix-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"address",
+		"replyAddress",
+		"headers",
+		"body",
+		"replyCallback",
+		"failureCode",
+		"failureType",
+		"message" ],
+	"name" : "VsMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

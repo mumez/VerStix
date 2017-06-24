@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"dispatcher" : "MasashiUmezawa 6/11/2016 23:19",
+		"dispatcher:" : "MasashiUmezawa 6/11/2016 23:19",
+		"initialize" : "MasashiUmezawa 6/12/2016 22:25",
+		"isStale" : "MasashiUmezawa 6/23/2017 11:47",
+		"messageReader" : "MasashiUmezawa 6/11/2016 10:01",
+		"messageReader:" : "MasashiUmezawa 6/11/2016 10:00",
+		"messageWriter" : "MasashiUmezawa 6/11/2016 10:01",
+		"messageWriter:" : "MasashiUmezawa 6/11/2016 10:00",
+		"newWriteStream" : "MasashiUmezawa 6/11/2016 10:11",
+		"onConnected" : "MasashiUmezawa 6/12/2016 01:53",
+		"ping" : "MasashiUmezawa 6/11/2016 10:12",
+		"publishTo:headers:body:" : "MasashiUmezawa 6/11/2016 10:27",
+		"readMessageFrom:" : "MasashiUmezawa 6/11/2016 14:12",
+		"sendBy:" : "MasashiUmezawa 6/11/2016 10:13",
+		"sendTo:replyTo:headers:body:" : "MasashiUmezawa 6/11/2016 10:15",
+		"subscribe:headers:" : "MasashiUmezawa 6/11/2016 12:49",
+		"unsubscribe:headers:" : "MasashiUmezawa 6/11/2016 12:49" } }

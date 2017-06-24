@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfVerStix",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfVerStix",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

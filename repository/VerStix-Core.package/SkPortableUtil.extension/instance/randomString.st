@@ -1,0 +1,3 @@
+*VerStix-Core-actions
+randomString
+	^''

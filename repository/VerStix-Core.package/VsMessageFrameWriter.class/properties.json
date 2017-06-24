@@ -1,0 +1,14 @@
+{
+	"category" : "VerStix-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VsMessageFrameWriter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

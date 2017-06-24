@@ -1,0 +1,14 @@
+{
+	"category" : "VerStix-Core",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"busMap" ],
+	"name" : "VsEventBusPool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
