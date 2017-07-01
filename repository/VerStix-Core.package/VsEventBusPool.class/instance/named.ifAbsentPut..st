@@ -1,4 +1,4 @@
-accessing
+actions
 named: aString ifAbsentPut: aBlock
 	| eb |
 	eb := self named: aString.

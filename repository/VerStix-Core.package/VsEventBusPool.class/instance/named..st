@@ -1,4 +1,4 @@
-accessing
+actions
 named: aString
 	| eb |
 	eb := self busMap at: aString ifAbsent: [^nil].

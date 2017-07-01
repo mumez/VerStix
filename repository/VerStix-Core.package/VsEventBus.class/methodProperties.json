@@ -1,6 +1,8 @@
 {
 	"class" : {
-		"host:port:" : "MasashiUmezawa 6/11/2016 11:15" },
+		"host:port:" : "MasashiUmezawa 6/30/2017 14:48",
+		"host:port:setting:" : "MasashiUmezawa 6/30/2017 15:06",
+		"host:port:subscriptions:" : "MasashiUmezawa 6/30/2017 14:48" },
 	"instance" : {
 		"connect" : "MasashiUmezawa 6/11/2016 11:24",
 		"defaultHeaders" : "MasashiUmezawa 6/11/2016 11:20",
@@ -33,6 +35,7 @@
 		"release" : "MasashiUmezawa 6/12/2016 02:05",
 		"replyHandlers" : "MasashiUmezawa 6/11/2016 14:39",
 		"replyHandlers:" : "MasashiUmezawa 6/11/2016 11:12",
+		"reserveCallback:forSubscription:" : "MasashiUmezawa 6/30/2017 12:09",
 		"send:to:" : "MasashiUmezawa 6/11/2016 12:00",
 		"send:to:callback:" : "MasashiUmezawa 6/11/2016 11:59",
 		"send:to:headers:callback:" : "MasashiUmezawa 6/11/2016 14:02",
