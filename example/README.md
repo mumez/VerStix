@@ -3,7 +3,7 @@ VerStix Example
 
 This directory contains an example verticle for testing VerStix.
 
-You can send 'hello' event and send/receive 'echo' event using VerStix-enabled Smalltalk images.
+You can send `'hello'` event and send/receive `'echo'` event using VerStix-enabled Smalltalk images.
 
 ## Server side
 
@@ -11,16 +11,17 @@ You can send 'hello' event and send/receive 'echo' event using VerStix-enabled S
 
 Through [SDKMAN](http://sdkman.io/):
 
-```bash
+```Shell
 sdk install vertx
 ```
 
 ### Running the example verticle
-```bash
+
+```Shell
 vertx run TcpEventBusBridgeEchoServer.groovy
 ```
 
-Now the verticle is waiting events.
+Now the verticle is waiting for events.
 
 ## Client side
 
@@ -37,7 +38,7 @@ eventBus send: {'value'->'HELLO from Smalltalk'} to: 'echo'.
 
 You can see the output on server console
 
-```bash
+```Shell
 got: {"value":"HELLO from Smalltalk"}
 ```
 
@@ -65,5 +66,3 @@ eventBus unsubscribe: 'echo'.
 ```Smalltalk
 eventBus release.
 ```
-
-
