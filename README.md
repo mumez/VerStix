@@ -1,7 +1,9 @@
 VerStix
 ========
 
-[Vert.x](http://vertx.io/ "Vert.x") TCP EventBus client for [Pharo Smalltalk](http://www.pharo-project.org/ "Pharo").
+[Vert.x](http://vertx.io/ "Vert.x") TCP [EventBus Bridge](http://vertx.io/docs/#bridges) client for [Pharo Smalltalk](http://www.pharo-project.org/ "Pharo").
+
+You can interact with various vert.x components (Web, Auth, DB, MQ, etc) via EventBus.
 
 ## Installation
 
@@ -13,29 +15,9 @@ Gofer new
 (Smalltalk at: #ConfigurationOfVerStix) load
 ```
 
-## Connect
-```Smalltalk
-eventBus := VsEventBus host: 'localhost' port: 7000.
-eventBus connect.
-```
+## Example
 
-## Async send (one-to-one)
-```Smalltalk
-eventBus send: {'value'->'HELLO from Smalltalk'} to: 'echo'.
-```
+Please see the [example](./example/README.md).
 
-## Async send with callback
-```Smalltalk
-eventBus send: {'value'-> Time now asString} to: 'echo' callback: [:data | data inspect].
-```
-
-## Publish/Subscribe (one-to-many)
-```Smalltalk
-eventBus publish: {'value'-> Time now asString} to: 'echo'. "On image-A"
-eventBus subscribe: 'echo' callback: [:msg | msg inspect]. "On image-A,B,C,D, etc"
-eventBus unsubscribe: 'echo'.
-```
-
-Note that you can receive publish events from other images!
 
 
